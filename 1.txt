@@ -2,4 +2,9 @@
 456
 789
 asdfdadada
+<<<<<<< HEAD
 1412141
+=======
+1412141
+24252
+>>>>>>> remotes/origin/feature
