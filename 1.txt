@@ -3,8 +3,13 @@
 789
 asdfdadada
 <<<<<<< HEAD
+<<<<<<< HEAD
 1412141
 =======
 1412141
 24252
 >>>>>>> remotes/origin/feature
+=======
+1412141
+24252
+>>>>>>> feature
